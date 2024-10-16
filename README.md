@@ -2,4 +2,4 @@
 
 Link: [https://christyyuen.github.io/](https://christyyuen.github.io/)
 
-<a href="https://christyyuen.github.io/" target="_blank">Visit My Portfolio</a>
+<a href="https://christyyuen.github.io/" target="_blank" rel="noopener noreferrer">Visit My Portfolio</a>
