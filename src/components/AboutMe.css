@@ -1,0 +1,144 @@
+.aboutme {
+  padding: 3rem 1rem 0rem 1rem; /* top, right, bottom, left */
+    background: #fff;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .aboutme__container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    max-width: 1120px;
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 0rem;
+  }
+  
+  .aboutme__wrapper {
+    display: flex;
+    flex-direction: column; /* Stack text above image vertically */
+    width: 100%; /* Take full width on smaller screens */
+    max-width: 800px; /* Adjust this as needed for a larger card */
+    margin: 2rem 0; /* Add some margin */
+    overflow: hidden;
+  }
+  
+  .aboutme__items {
+    display: flex;
+    flex-wrap: wrap; 
+    margin-bottom: 24px;
+  }
+  
+  .aboutme__item {
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    flex-direction: column; 
+    width: 100%; /* Take full width on smaller screens */
+    /* min-width: 250px;
+    max-width: 1000px;  */
+    box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
+    border-radius: 10px;
+    overflow: hidden;
+
+    min-width: 250px; /* Set a minimum width to prevent collapse */
+    margin: 0.5rem; /* Smaller margins for better spacing */
+    
+  }
+
+  .aboutme__item__link {
+    display: flex;
+    flex-flow: column;
+    width: 100%;
+    /* box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17); */
+    -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
+    border-radius: 10px;
+    overflow: hidden;
+    text-decoration: none;
+  }
+  
+  .aboutme__item__pic-wrap {
+    position: relative;
+    width: 100%;
+    padding-top: 67%;
+    overflow: hidden;
+  }
+  
+  .fade-img {
+    animation-name: fade-img;
+    animation-duration: 2s;
+  }
+  
+  .aboutme__item__pic-wrap::after {
+    content: attr(data-category);
+    position: absolute;
+    bottom: 0;
+    margin-left: 10px;
+    padding: 6px 8px;
+    max-width: calc((100%) - 60px);
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #1f98f4;
+    box-sizing: border-box;
+  }
+  
+  .aboutme__item__img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+    object-fit: cover;
+    transition: all 0.2s linear;
+  }
+  
+  .aboutme__item__img:hover {
+    transform: scale(1.1);
+  }
+  
+  .aboutme__item__info {
+    /* padding: 20px 30px 30px; */
+    padding: 20px;
+    text-align: center; 
+  }
+  
+  .aboutme__item__text {
+    color: #252e48;
+    font-size: 18px;
+    line-height: 24px;
+    overflow: hidden;
+  }
+  
+  @media only screen and (min-width: 1200px) {
+    .content__blog__container {
+      width: 84%;
+    }
+  }
+  
+  @media only screen and (min-width: 1024px) {
+    .aboutme__items {
+      display: flex;
+    }
+  }
+  
+  @media only screen and (max-width: 1024px) {
+    .aboutme__items {
+      margin-bottom: 0px;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    .aboutme__items {
+        flex-direction: column; /* Stack items vertically on smaller screens */
+    }
+}
