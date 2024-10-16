@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62586267.chunk.css",
+    "main.js": "/static/js/main.19b867aa.chunk.js",
+    "main.js.map": "/static/js/main.19b867aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.67d84520.js",
+    "runtime-main.js.map": "/static/js/runtime-main.67d84520.js.map",
+    "static/js/2.6476b3b2.chunk.js": "/static/js/2.6476b3b2.chunk.js",
+    "static/js/2.6476b3b2.chunk.js.map": "/static/js/2.6476b3b2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.847f0eaa6124a2e1522649b324533f41.js": "/precache-manifest.847f0eaa6124a2e1522649b324533f41.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.62586267.chunk.css.map": "/static/css/main.62586267.chunk.css.map",
+    "static/js/2.6476b3b2.chunk.js.LICENSE.txt": "/static/js/2.6476b3b2.chunk.js.LICENSE.txt",
+    "static/media/Calculator.jpg": "/static/media/Calculator.871fe92e.jpg",
+    "static/media/ChristyPortfolio.jpg": "/static/media/ChristyPortfolio.6e54e515.jpg",
+    "static/media/DungeonDijkstra.jpg": "/static/media/DungeonDijkstra.c4cd8f53.jpg",
+    "static/media/Grad.JPG": "/static/media/Grad.6fab3600.JPG",
+    "static/media/NoteTaking.jpg": "/static/media/NoteTaking.2dd22d82.jpg",
+    "static/media/TicTacToe.jpg": "/static/media/TicTacToe.ce96d89f.jpg",
+    "static/media/WorldData.mp4": "/static/media/WorldData.3cb2fa2c.mp4",
+    "static/media/Yuen_Christy_Resume.pdf": "/static/media/Yuen_Christy_Resume.e0004662.pdf",
+    "static/media/iceland.jpg": "/static/media/iceland.42f15a6b.jpg",
+    "static/media/App.css": "/static/media/img-9.523a89f6.jpg",
+    "static/media/logo.png": "/static/media/logo.00920a0a.png",
+    "static/media/logo_mirror.png": "/static/media/logo_mirror.84afa8d4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67d84520.js",
+    "static/js/2.6476b3b2.chunk.js",
+    "static/css/main.62586267.chunk.css",
+    "static/js/main.19b867aa.chunk.js"
+  ]
+}
