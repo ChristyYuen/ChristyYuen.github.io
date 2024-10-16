@@ -19,7 +19,7 @@ function Cards() {
               src={port} 
               text="Explore the code behind this page to see how it's structured and functions"
               label='Portfolio'
-              path='https://github.com/ChristyYuen/ChristyCreates'
+              path='https://christyyuen.github.io/'
             />
             <CardItem
               src= {cal}
