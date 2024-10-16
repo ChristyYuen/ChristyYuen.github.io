@@ -25,7 +25,7 @@ function Footer() {
                   </a>
           </p>
         <p className='footer-subscription-text'>
-          Please include your name and company
+          Click on my email to get started
         </p>
       </section>
       <div class='footer-links'>
