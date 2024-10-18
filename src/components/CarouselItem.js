@@ -3,9 +3,9 @@ import React from "react";
 
 const CarouselItem = ({ src, text }) => {
   return (
-    <div style={{ padding: "10px", textAlign: "center" }}>
+    <div className="carousel__item">
       <img src={src} alt={text} style={{ width: "100%" }} />
-      <p style={{ marginTop: "10px", fontSize: "16px" }}>{text}</p>
+      <p>{text}</p>
     </div>
   );
 };

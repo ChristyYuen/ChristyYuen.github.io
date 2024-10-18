@@ -1,0 +1,19 @@
+.carousel {
+    padding: 4rem;
+    background: #fff;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .carousel__item {
+    /* display: flex;
+    flex: 1;
+    margin: 0 1rem;
+    border-radius: 10px; */
+    margin: 0 1rem;
+    border-radius: 10px;
+  }
+
+  

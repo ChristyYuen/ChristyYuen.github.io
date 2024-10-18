@@ -5,13 +5,15 @@ import HeroSection from '../HeroSection';
 import Footer from '../Footer';
 import AboutMe from '../AboutMe';
 import Carousel from '../ICarousel';
+import CaroCard from '../CaroCard';
 
 function Test() {
   return (
     <>
       <HeroSection />
-      <Carousel />
-      <AboutMe/>
+      {/* <Carousel /> */}
+      <CaroCard /> 
+      {/* <AboutMe/> */}
       <Cards />
       <Footer />
     </>

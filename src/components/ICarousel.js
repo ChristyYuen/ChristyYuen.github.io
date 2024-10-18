@@ -2,6 +2,7 @@
 import React from "react";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
+import "./ICarousel.css";
 import CarouselItem from "./CarouselItem";
 import iceland from './images/iceland.jpg';
 
@@ -21,13 +22,13 @@ const ICarousel = () => {
   ];
 
   return (
-    <div style={{ margin: "0 auto", width: "80%", backgroundColor: "white", padding: "20px" }}> 
+    <div className="carousel"> 
       <h1>Image Carousel with Text</h1>
-      <Carousel responsive={responsive}>
-        {items.map((item) => (
-          <CarouselItem key={item.id} src={item.src} text={item.text} />
-        ))}
-      </Carousel>
+          <Carousel responsive={responsive}>
+            {items.map((item) => (
+              <CarouselItem key={item.id} src={item.src} text={item.text} />
+            ))}
+          </Carousel>
     </div>
   );
 };
