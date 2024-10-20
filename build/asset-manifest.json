@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d917a9b5.chunk.css",
-    "main.js": "/static/js/main.c2a43567.chunk.js",
-    "main.js.map": "/static/js/main.c2a43567.chunk.js.map",
+    "main.css": "/static/css/main.d634c965.chunk.css",
+    "main.js": "/static/js/main.1344b475.chunk.js",
+    "main.js.map": "/static/js/main.1344b475.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.67d84520.js",
     "runtime-main.js.map": "/static/js/runtime-main.67d84520.js.map",
     "static/css/2.3f9027fe.chunk.css": "/static/css/2.3f9027fe.chunk.css",
-    "static/js/2.f0032ea3.chunk.js": "/static/js/2.f0032ea3.chunk.js",
-    "static/js/2.f0032ea3.chunk.js.map": "/static/js/2.f0032ea3.chunk.js.map",
+    "static/js/2.34a737b8.chunk.js": "/static/js/2.34a737b8.chunk.js",
+    "static/js/2.34a737b8.chunk.js.map": "/static/js/2.34a737b8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d3b42fc70ee6081d60a05c7553f5f09c.js": "/precache-manifest.d3b42fc70ee6081d60a05c7553f5f09c.js",
+    "precache-manifest.c502cf71250ce7e7711e517e9dc56da2.js": "/precache-manifest.c502cf71250ce7e7711e517e9dc56da2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.3f9027fe.chunk.css.map": "/static/css/2.3f9027fe.chunk.css.map",
-    "static/css/main.d917a9b5.chunk.css.map": "/static/css/main.d917a9b5.chunk.css.map",
-    "static/js/2.f0032ea3.chunk.js.LICENSE.txt": "/static/js/2.f0032ea3.chunk.js.LICENSE.txt",
+    "static/css/main.d634c965.chunk.css.map": "/static/css/main.d634c965.chunk.css.map",
+    "static/js/2.34a737b8.chunk.js.LICENSE.txt": "/static/js/2.34a737b8.chunk.js.LICENSE.txt",
     "static/media/Calculator.jpg": "/static/media/Calculator.871fe92e.jpg",
     "static/media/ChristyPortfolio.jpg": "/static/media/ChristyPortfolio.6e54e515.jpg",
     "static/media/DungeonDijkstra.jpg": "/static/media/DungeonDijkstra.c4cd8f53.jpg",
@@ -22,8 +22,8 @@
     "static/media/TicTacToe.jpg": "/static/media/TicTacToe.ce96d89f.jpg",
     "static/media/WorldData.mp4": "/static/media/WorldData.3cb2fa2c.mp4",
     "static/media/Yuen_Christy_Resume.pdf": "/static/media/Yuen_Christy_Resume.1a005134.pdf",
+    "static/media/App.css": "/static/media/ucsc.d85fb9af.jpg",
     "static/media/iceland.jpg": "/static/media/iceland.42f15a6b.jpg",
-    "static/media/App.css": "/static/media/img-9.523a89f6.jpg",
     "static/media/logo.png": "/static/media/logo.00920a0a.png",
     "static/media/logo_mirror.png": "/static/media/logo_mirror.84afa8d4.png",
     "static/media/styles.css": "/static/media/revicons.2feb69cc.eot"
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.67d84520.js",
     "static/css/2.3f9027fe.chunk.css",
-    "static/js/2.f0032ea3.chunk.js",
-    "static/css/main.d917a9b5.chunk.css",
-    "static/js/main.c2a43567.chunk.js"
+    "static/js/2.34a737b8.chunk.js",
+    "static/css/main.d634c965.chunk.css",
+    "static/js/main.1344b475.chunk.js"
   ]
 }

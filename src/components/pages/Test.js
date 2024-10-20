@@ -11,9 +11,7 @@ function Test() {
   return (
     <>
       <HeroSection />
-      {/* <Carousel /> */}
       <CaroCard /> 
-      {/* <AboutMe/> */}
       <Cards />
       <Footer />
     </>

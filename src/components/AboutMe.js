@@ -1,7 +1,7 @@
 import React from 'react';
-import './AboutMe.css'; // Import CSS specific to this component
+import './AboutMe.css';
 import AboutMeItem from './AboutMeItem';
-import iceland from './images/iceland.jpg'; // Replace with your image path
+import iceland from './images/iceland.jpg';
 import grad from './images/Grad.JPG';
 
 function AboutMe() {
