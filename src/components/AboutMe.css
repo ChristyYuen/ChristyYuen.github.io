@@ -7,6 +7,11 @@
     text-align: center;
   }
   
+  .aboutme__item__content {
+    display: flex;
+    align-items: center; /* Align image and text vertically */
+  }
+
   .aboutme__container {
     display: flex;
     flex-flow: column;
@@ -19,10 +24,10 @@
   
   .aboutme__wrapper {
     display: flex;
-    flex-direction: column; /* Stack text above image vertically */
-    width: 100%; /* Take full width on smaller screens */
-    max-width: 800px; /* Adjust this as needed for a larger card */
-    margin: 2rem 0; /* Add some margin */
+    flex-direction: column;
+    width: 100%;
+    max-width: 800px;
+    margin: 2rem 0;
     overflow: hidden;
   }
   
@@ -36,24 +41,17 @@
     display: flex;
     flex: 1;
     flex-wrap: wrap;
-    flex-direction: column; 
-    width: 100%; /* Take full width on smaller screens */
-    /* min-width: 250px;
-    max-width: 1000px;  */
+    flex-direction: column;
     box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17);
     border-radius: 10px;
     overflow: hidden;
-
-    min-width: 250px; /* Set a minimum width to prevent collapse */
-    margin: 0.5rem; /* Smaller margins for better spacing */
-    
+    margin: 0.5rem; 
   }
 
   .aboutme__item__link {
     display: flex;
     flex-flow: column;
     width: 100%;
-    /* box-shadow: 0 6px 20px rgba(56, 125, 255, 0.17); */
     -webkit-filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
     filter: drop-shadow(0 6px 20px rgba(56, 125, 255, 0.017));
     border-radius: 10px;
@@ -107,7 +105,6 @@
   }
   
   .aboutme__item__info {
-    /* padding: 20px 30px 30px; */
     padding: 20px;
     text-align: center; 
   }
