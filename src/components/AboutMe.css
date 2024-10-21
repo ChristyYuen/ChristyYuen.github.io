@@ -9,6 +9,10 @@
     margin-bottom: 10px;
   }
 
+  p {
+    margin-bottom: 0.5em;
+  }
+
   .button{
     display: flex; 
     justify-content: center; 
