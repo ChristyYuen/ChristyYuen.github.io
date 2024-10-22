@@ -12,7 +12,8 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <video src={vid1} autoPlay loop muted />
-      <h1>Christy's Portfolio</h1>
+      <h1>Christy Yuen's </h1>
+      <h1>Portfolio</h1>
       <p>Coding with Data</p>
       <div className='hero-btns'>
           <Button
