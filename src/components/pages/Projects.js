@@ -7,7 +7,7 @@ import Footer from '../Footer';
 function Projects(){
   return (
     <>
-      <h1 className='projects'>PROJECTS</h1>
+      <h2 className='projects'>PROJECTS</h2>
       <Cards />
       <Footer />
     </>

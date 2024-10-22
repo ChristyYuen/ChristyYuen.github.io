@@ -20,7 +20,7 @@ function AboutMe() {
               <AboutMeItem
                 src={grad} 
                 label='UCSC Graduate' 
-                title="Majored in Computer Science." 
+                title="Majored in Computer Science," 
                 subtitle="Minor in Technology and Information Management" 
               />
             </ul>

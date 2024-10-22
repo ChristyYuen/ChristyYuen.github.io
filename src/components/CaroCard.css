@@ -1,7 +1,7 @@
 /* CaroCard.css */
-.caro-header {
+  .caro-header {
     text-align: center;
-    margin-top: 2rem;  /* Adds space above the header */
+    margin-top: 1rem;  /* Adds space above the header */
     margin-bottom: 50px;  /* Adds space below the header */
   }
   
@@ -13,7 +13,7 @@
     width: 95%;
     margin: 0 auto;
     overflow: visible; /* Ensures shadows are not cut off */
-    padding: 4rem; /* Matches the cards padding */
+    padding: 1rem; /* Matches the cards padding */
     background: #fff;
   }
 

@@ -17,15 +17,6 @@
   font-size: 3rem;
 }
 
-/* .about {
-  background-image: url('./components/images/me.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-} */
-
 .about {
   display: flex; 
   align-items: flex-start;  /* Align text to the top */

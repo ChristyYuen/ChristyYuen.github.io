@@ -34,7 +34,7 @@ function CaroCard() {
 
   return (
     <div className='cards'>
-      <h1 className='caro-header'>Fun Facts About Me</h1>
+      <h1 className='caro-header'>More About Me</h1>
         <Carousel 
         responsive={responsive} 
         infinite={true} 

@@ -3,12 +3,14 @@ import '../../App.css';
 import Footer from '../Footer';
 import CaroCard from '../CaroCard';
 import AboutMe from '../AboutMe';
+import TechStack from '../TechStack';
 
 function About(){
   return (
     <>
-        <h1 className='about'>ABOUT wip</h1>
+        <h2 className='about'>ABOUT wip</h2>
         <AboutMe />
+        <TechStack />
         <CaroCard /> 
         <Footer />
     </>
