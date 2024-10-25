@@ -3,7 +3,7 @@
 Hello! I'm **Christy Yuen**, a passionate Software Engineer and Data Analyst with expertise in building impactful solutions through code and data. This repository hosts my portfolio, where you can explore my skills, experience, and projects.
 
 ### 🚀 Explore My Work:
-🔗 **[Visit My Portfolio](https://christyyuen.github.io/)**
+🔗 **[Visit My Portfolio](https://christyyuen.github.io/)**  
 🔗 [https://christyyuen.github.io/](https://christyyuen.github.io/)
 
 ### 👩‍💻 About Me:
