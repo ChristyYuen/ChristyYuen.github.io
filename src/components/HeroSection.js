@@ -37,15 +37,13 @@ function HeroSection() {
             buttonStyle='btn--outline'
             buttonSize='btn--large'
             onClick={() => {
-              const link = document.createElement('a');
-              link.href = resume; // Path to your resume
-              link.download = 'Yuen_Christy_Resume.pdf'; // Name of the downloaded file
-              document.body.appendChild(link);
-              link.click();
-              document.body.removeChild(link); // Clean up
+              const email = "yuenchristy8@gmail.com";
+              const subject = encodeURIComponent("[Name] [Company] Let's Connect!");
+              const mailtoLink = `mailto:${email}?subject=${subject}`;
+              window.open(mailtoLink, '_blank');
             }}
           >
-            Resume
+            Contact
           </Button>
       </div>
     </div>
