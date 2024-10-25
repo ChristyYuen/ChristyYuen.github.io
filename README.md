@@ -4,6 +4,7 @@ Hello! I'm **Christy Yuen**, a passionate Software Engineer and Data Analyst wit
 
 ### 🚀 Explore My Work:
 🔗 **[Visit My Portfolio](https://christyyuen.github.io/)**
+Or manually visit: https://christyyuen.github.io/
 
 ### 👩‍💻 About Me:
 - **Specializations:** Software Engineering, Data Analytics, Front-End Development
