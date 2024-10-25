@@ -4,7 +4,7 @@ Hello! I'm **Christy Yuen**, a passionate Software Engineer and Data Analyst wit
 
 ### 🚀 Explore My Work:
 🔗 **[Visit My Portfolio](https://christyyuen.github.io/)**  
-🔗 [https://christyyuen.github.io/](https://christyyuen.github.io/)
+🔗 **[https://christyyuen.github.io/](https://christyyuen.github.io/)**
 
 ### 👩‍💻 About Me:
 - **Specializations:** Software Engineering, Data Analytics, Front-End Development
@@ -15,4 +15,5 @@ Hello! I'm **Christy Yuen**, a passionate Software Engineer and Data Analyst wit
 - **Data Dictionary:** Developed a comprehensive data dictionary using Looker to enhance data literacy.
 - **D&D Companion:** Built a project management tool using React and SQL, improving team efficiency.
 
-Feel free to explore my portfolio and reach out for collaboration or inquiries!
+Feel free to explore my portfolio and reach out for collaboration or inquiries!  
+📬 **Contact me at:** yuenchristy8@gmail.com
