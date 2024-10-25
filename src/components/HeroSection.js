@@ -14,24 +14,8 @@ function HeroSection() {
       <video src={vid1} autoPlay loop muted />
       <h1>Christy Yuen's </h1>
       <h1>Portfolio</h1>
-      <p>Coding with Data</p>
+      <p>Innovating with code, optimizing with data</p>
       <div className='hero-btns'>
-          <Button
-            className='btns'
-            buttonStyle='btn--outline'
-            buttonSize='btn--large'
-            onClick={() => openLink('https://github.com/ChristyYuen')}
-          >
-            GitHub
-          </Button>
-          <Button
-          className='btns'
-          buttonStyle='btn--outline'
-          buttonSize='btn--large'
-          onClick={() => openLink('https://www.linkedin.com/in/yuenchristy/')}
-          >
-           LinkedIn
-          </Button>
           <Button
             className='btns'
             buttonStyle='btn--outline'
@@ -44,6 +28,24 @@ function HeroSection() {
             }}
           >
             Contact
+          </Button>
+
+          <Button
+            className='btns'
+            buttonStyle='btn--outline'
+            buttonSize='btn--large'
+            onClick={() => openLink('https://github.com/ChristyYuen')}
+          >
+            GitHub
+          </Button>
+
+          <Button
+            className='btns'
+            buttonStyle='btn--outline'
+            buttonSize='btn--large'
+            onClick={() => openLink('https://www.linkedin.com/in/yuenchristy/')}
+            >
+            LinkedIn
           </Button>
       </div>
     </div>
