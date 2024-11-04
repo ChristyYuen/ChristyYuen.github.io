@@ -22,6 +22,9 @@ video {
   color: #fff;
   font-size: 100px;
   margin-top: -50px;
+  text-shadow: 
+    3px 3px 5px rgba(0, 0, 0, 0.7),
+    6px 6px 10px rgba(0, 0, 0, 0.5);
 }
 
 .hero-container > p {
@@ -30,6 +33,9 @@ video {
   font-size: 32px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
+  text-shadow: 
+    3px 3px 5px rgba(0, 0, 0, 0.7),
+    6px 6px 10px rgba(0, 0, 0, 0.5);
 }
 
 .hero-btns {
